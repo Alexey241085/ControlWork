@@ -1,0 +1,15 @@
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/obj/Debug/net7.0/Task.csproj.AssemblyReference.cache
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/obj/Debug/net7.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/obj/Debug/net7.0/Task.AssemblyInfoInputs.cache
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/obj/Debug/net7.0/Task.AssemblyInfo.cs
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/obj/Debug/net7.0/Task.csproj.CoreCompileInputs.cache
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/bin/Debug/net7.0/Task
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/bin/Debug/net7.0/Task.deps.json
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/bin/Debug/net7.0/Task.runtimeconfig.json
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/bin/Debug/net7.0/Task.dll
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/bin/Debug/net7.0/Task.pdb
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/obj/Debug/net7.0/Task.dll
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/obj/Debug/net7.0/refint/Task.dll
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/obj/Debug/net7.0/Task.pdb
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/obj/Debug/net7.0/Task.genruntimeconfig.cache
+/Users/aleksej/Documents/01_Мое обучение/ControlWork/Task/obj/Debug/net7.0/ref/Task.dll
